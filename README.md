@@ -19,4 +19,4 @@ Train your own model on [Google Teachable Machine][src] .
 
   [src]: https://teachablemachine.withgoogle.com
 1. Choose a new Image project
-![](圖314.jpg)
+![](p3.jpg)
