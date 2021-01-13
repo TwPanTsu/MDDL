@@ -172,7 +172,7 @@ Train your own model on [Google Teachable Machine][src] .
   ![](p7.png)
   
   Here is device's full picture.
-  ![](p5.PNG)
+  ![](p5.jpg)
   
   6.Run the program!
   
