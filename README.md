@@ -371,6 +371,7 @@ if __name__ == '__main__':
 	zTo = 'supermice0000@gmail.com'
   ```
   zUser and zPass stands for sender's mailbox and passwords
+  
   zTo stands for receiver's mailbox
   
   Last thing, RUN!
