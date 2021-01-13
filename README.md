@@ -21,28 +21,28 @@ Train your own model on [Google Teachable Machine][src] .
 1. Choose a new Image project
 ![](p3.jpg)
 
-  Follow the steps a->b->c
+   Follow the steps a->b->c
 ![](p1.jpg)
 
-  Export model into Tensorflow Lite Quantized
+   Export model into Tensorflow Lite Quantized
 ![](p4.jpg)
 
 2. Turn on your raspberrypi 3B and open terminal
-  WE have a LOTS of things to install!!!
+    WE have a LOTS of things to install!!!
   
-  Install tensorflow lite (python version 3.6.1)
+    Install tensorflow lite (python version 3.6.1)
   ```
   $ pip3 install https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp36-cp36m-linux_armv7l.whl
   ```
- 3. Install opencv 4.4.0 (python version 3.6.1)
+3. Install opencv 4.4.0 (python version 3.6.1)
  
-  Please do it carefully!! it will be failures everywhere!
+    Please do it carefully!! it will be failures everywhere!
   
-  First check your raspberrypi is up to date!
-  First check your raspberrypi is up to date!
-  First check your raspberrypi is up to date!
+    First check your raspberrypi is up to date!
+    First check your raspberrypi is up to date!
+    First check your raspberrypi is up to date!
   
-  Dependencies you have to install:
+    Dependencies you have to install:
   ```
   $ sudo apt-get update
   $ sudo apt-get upgrade
@@ -57,7 +57,8 @@ Train your own model on [Google Teachable Machine][src] .
   $ sudo apt-get install gcc-arm* protobuf-compiler
   $ pip3 install numpy
   ```
-  Download OpenCV 4.4.0:
+   Download OpenCV 4.4.0:
+   
   Download.
   ```
   $ cd
