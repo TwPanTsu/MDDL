@@ -170,7 +170,7 @@ Train your own model on [Google Teachable Machine][src] .
   Here is the circuit.
   ![](p7.png)
   Here is device's full picture.
-  ![](p5.png)
+  ![](p5.PNG)
   
   6.Run the program!
   
@@ -376,6 +376,6 @@ if __name__ == '__main__':
   $ cd project
   $ python MDDL.py --model model.tflite --labels labels.txt
   ```
-  ![](p6.png)
+  ![](p6.PNG)
   ## Demo video 
 https://youtu.be/Wgd7RetdNmU
