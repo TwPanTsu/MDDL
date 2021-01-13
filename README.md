@@ -14,7 +14,7 @@ we need some protection. end up with this IOT device. it's a door lock with a ca
 * resister*6
 * button*1
 * Raspberry Pi 3B+ and a SD card
-# Before Getting Start
+# Instruction
 Train your own model on [Google Teachable Machine][src] .
 
   [src]: https://teachablemachine.withgoogle.com
