@@ -1,13 +1,12 @@
-# MDDL
-which stands for Mask Detection Door Lock.
+# MDDL(Mask Detection Door Lock)
 
 2020 is a virus year. 
 
-we need some protection. end up with this IOT device. it's a door lock with a camera, but has no lock on it. 
+We need some protection. end up with this IOT device. it's a door lock with a camera, but has no lock on it. 
 
-lock has been replaced with 5 seven segment lights which display open and close. camera will take 10 shots after button pushed, then using pre-trained model to determine you are wearing a mask or not.
+Lock has been replaced with 5 seven segment lights which display open and close. camera will take 10 shots after button pushed, then using pre-trained model to determine you are wearing a mask or not.
 
-finally, it sends mails to phone's mailbox which responding door's status.
+Finally, it sends mails to phone's mailbox which responding door's status.
 
 # Features
 * Mask detection pre-trained model.
