@@ -379,3 +379,10 @@ if __name__ == '__main__':
   ![](p6.PNG)
   ## Demo video 
 https://youtu.be/Wgd7RetdNmU
+
+REFERENCE
+https://stackoverflow.com/questions/42638342/cannot-install-opencv-3-1-0-with-python3-cmake-not-including-or-linking-python
+https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-cn
+https://qengineering.eu/install-opencv-4.4-on-raspberry-pi-4.html
+https://teachablemachine.withgoogle.com/
+https://books.bod.idv.tw/2019/07/raspberry-pi-ssmtp-google-gmail-python.html
