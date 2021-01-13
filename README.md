@@ -34,6 +34,7 @@ Train your own model on [Google Teachable Machine][src] .
 ![](p4.jpg)
 
 2. Turn on your raspberrypi 3B and open terminal
+
     WE have a LOTS of things to install!!!
   
     Install tensorflow lite (python version 3.6.1)
@@ -45,7 +46,9 @@ Train your own model on [Google Teachable Machine][src] .
     Please do it carefully!! it will be failures everywhere!
   
     First check your raspberrypi is up to date!
+    
     First check your raspberrypi is up to date!
+    
     First check your raspberrypi is up to date!
   
     Dependencies you have to install:
@@ -82,6 +85,7 @@ Train your own model on [Google Teachable Machine][src] .
   $ mv opencv_contrib-4.4.0 opencv_contrib
   ```
   OpenCV 4.4.0 Build&Make:
+  
   You have to make a directory where all the build files can be located.
   ```
   $ cd ~/opencv/
@@ -119,6 +123,7 @@ Train your own model on [Google Teachable Machine][src] .
     -D BUILD_EXAMPLES=OFF ..
   ```
   REMEMBER TO CHECK IT CATCHES YOUR PYTHON 3'S LIBRARY!!!
+  
   Change your swap size before make.
   ```
   $ sudo nano /etc/dphys-swapfile
@@ -150,7 +155,9 @@ Train your own model on [Google Teachable Machine][src] .
   $ sudo nano /etc/dphys-swapfile
   ```
   Checking.
+  
   REBOOT is require.
+  
   Last thing to do to decide you are gonna do all these thing again or not!!
   ```
   $ python
@@ -160,7 +167,9 @@ Train your own model on [Google Teachable Machine][src] .
   cv2.__version__
   ```
   If you get no warings, CONGRATULATIONS!
+  
   4. build project.
+  
   Make a directory to place our project
   ```
   $ cd
@@ -390,6 +399,7 @@ if __name__ == '__main__':
 https://youtu.be/Wgd7RetdNmU
 
 REFERENCE
+
 https://stackoverflow.com/questions/42638342/cannot-install-opencv-3-1-0-with-python3-cmake-not-including-or-linking-python
 https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-cn
 https://qengineering.eu/install-opencv-4.4-on-raspberry-pi-4.html
