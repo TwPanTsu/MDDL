@@ -167,8 +167,10 @@ Train your own model on [Google Teachable Machine][src] .
   After extract zip file, it will be three file in folder.(\*model.tflite\* , \*labels.txt\* and \*MDDL.py\*)
   
   5. build device in real life by our hands.
+  
   Here is the circuit.
   ![](p7.png)
+  
   Here is device's full picture.
   ![](p5.PNG)
   
